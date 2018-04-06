@@ -11,3 +11,4 @@
 ```
 ###### Version :  0.001
 #### Copyright and License 
+ ©2018 Rani Kiran Fatima [MIT License](https://github.com/RaniKiranFitma/wecamp_rani/blob/master/LICENSE)

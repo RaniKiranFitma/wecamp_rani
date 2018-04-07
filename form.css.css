@@ -1,0 +1,25 @@
+h1 {
+  color: blue;
+  text-align: left;
+}
+form
+{
+	background-color:yellow;
+	 color: red;
+  text-align: left;
+ width:30%;
+ padding-left:10px;
+ border-style:dotted;
+ 
+	
+}
+
+
+body {
+  background-color: pink;
+}
+div
+{
+	border:2px solid blue;
+	padding:10px;
+}

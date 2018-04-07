@@ -1,0 +1,66 @@
+.pdata
+{
+	background-color: pink;
+	border:3px solid red;
+	height:120%;
+	float:left;
+	margin-top:18%;
+	padding:6px;
+	
+	
+}
+body
+{
+	
+	font-family:sans-serif;
+	
+	padding: 6px;
+	background-color:yellow;
+	margin:5px;
+}
+h1
+
+{
+	border-top:2px solid blue;
+	border-bottom:2px solid blue;
+	padding:2px;
+	text-align:center;
+	font-size:60;
+}
+
+.imgc
+
+{ 
+position:absolute;
+float:left;
+width:100%;
+height:100%;
+padding:6px;
+
+}
+.qdata
+{
+	font-size:20px;
+	font-family:sans-serif;
+	background-color: pink;
+	border:3px solid red;
+	height:auto%;
+	width:70%;
+	float:right;
+	margin-top:18%;
+	padding:6px;
+	position:relative;
+	
+}
+.edata
+{
+	font-family:sans-serif;
+	background-color: pink;
+	border:3px solid red;
+	height:auto%;
+	width:70%;
+	float:right;
+margin-top:11%;
+	padding:6px;
+	position:relative;
+}
